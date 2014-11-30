@@ -1,0 +1,1 @@
+Remember to start mongod, then grunt serve
